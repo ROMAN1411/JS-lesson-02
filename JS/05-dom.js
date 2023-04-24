@@ -33,3 +33,5 @@ btnClean.addEventListener("click", function () {
   outputEl.textContent = total;
   console.log("total", total);
 });
+
+console.log("mango".indexOf("go"));
